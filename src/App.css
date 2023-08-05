@@ -1,0 +1,13 @@
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+footer {
+	position: fixed;
+	bottom: 0;
+	background: rgba(222, 224, 171, 0.4);
+	padding: 24px;
+	width: 100vw;
+}
